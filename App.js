@@ -42,7 +42,6 @@ export default function App() {
 
   // Load the pick up line with options variable
   const loadPickUp = (content) => {
-    console.log(process.env.REACT_APP_API_KEY)
     // API method
     const options = {
       method: 'GET',
