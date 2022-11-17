@@ -31,11 +31,12 @@ npm start
 
 ## Demo
 
-Before pressing one of the options you should see a blank screen.
-![DemoBefore](DemoImgs/Before.PNG)
-
-After pressing a message with the desired pick up line will pop up for use.
-![DemoAfter](DemoImgs/After.PNG)
+Before pressing one of the options you should see a blank screen. After pressing text will appear with the pick up line for use.
+In the example below the **Cute** button was pressed.
+<div>
+  <img src="https://github.com/Dsmannight/Pick-Up-App/blob/main/DemoImgs/Before.PNG" height="550">
+  <img src="https://github.com/Dsmannight/Pick-Up-App/blob/main/DemoImgs/After.PNG" height="550">
+</div>
 
 ---
 
